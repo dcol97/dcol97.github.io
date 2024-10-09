@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/dcol97
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dcol.me
+  * I am dcol97 (https://keybase.io/dcol97) on keybase.
+  * I have a public key with fingerprint FF73 3078 A183 451D 1146  C03C F3AA 8046 385F 9233
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e74492a5772890677e0f68e19de86c65fc498245b6989991024fd62d003061f70a",
+      "fingerprint": "ff733078a183451d1146c03cf3aa8046385f9233",
+      "host": "keybase.io",
+      "key_id": "f3aa8046385f9233",
+      "kid": "0101bfaf3fa4106a3e96c1337a6ed7e899afa9f195d2d108b00f3268afc4a176c7aa0a",
+      "uid": "aa0cfe66ec9b51c9697dd9ff91c15d19",
+      "username": "dcol97"
+    },
+    "service": {
+      "hostname": "dcol.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1728500575,
+  "expire_in": 157680000,
+  "prev": "9e30100290c8e2157e5e9c2f7d40f2ec9d86bd0d97bbaa2118ffbf5c2dd2df50",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUm1QVFUY3iU+hm2MrfhIC9JLkSTCuffu/TiLMhoCamt8qNGUut6Pc+AG7m67
+ywIKhsHIwJTgBzVRMqCjkY0ySFoTwRRoQVABKhRNoIWjpjiZKEionWVyph+dP+e8
+73me5zzve97qOQ/pDPqbR0qSReseVt9zRdZl+Z+Rt1GyXS2kzNuoHDS7oVwVudzW
+HE2lzBSgGYAEkwkyEicIjAgBLwgIYF5ENFSRyCs8hxUTFBkTJ/NQhBDSgDFhlWdU
+AFjA01gAEhVDYc2WhZwOp2ZzE1mMBZYFgijRImviaJWmTbwCWAWzkiQCE8+KHIYM
+yxJitt3lZRBzsuRCsZqd5EhgnbX3P/gHvgEtYwmzWDLRgJdYBHmFZllB4pEqIOJT
+whLENORURqWBKAOAWYYXJVKMRAu8IkjSrO+8WTkSKBjxPFKgzNEK5KGgqhBjSCs0
+p9LQC3Qhp03agghaVey5UKCKYyiS82gK8rbVW8d/7mPJKYZyOO1uO4lIMtvtdrjM
+XpK70OFF5SPZ+i/fKms2lTSQMDzI6dLsNspME6Ti1ryCNPkYDgBO4GIoVODQnMiq
+eRGcwIuALO87yEMkIWJJYwADgSIiJp0AEIegwmBBNQHMkOpUkZdVoEJBliWJoWkR
+YxlzCqOSNmEOUN6S3rDZKbNAfEpZRNOlZdkkd54TUcWGCh/WV6c36MJDF/jed4GC
+htKk8EeTv1ryYOj8fLwTpzMEGh9kuKtB9+U7xWJ5pf/UgcNXF3zbM8K1LM+8Nj/l
+gnO40WOJfi275P3i02lDN1tPhrLPXzA8/IIafbfHqCuv2pEK93kc5T9/H7v/i9uV
+cxcrazdtTTntX7vvUEWHvrdoccGpxPo/4yZWjBV2jBRNVZTp3pLVob2dKau/OdrS
+Dhu6jWG1k0zXtuCW7a0dCU33pq1/tViqzOroM+tuuPwOrW5qbreEJPX3NvE16deP
+N2rFSw3DezYEDQq7U+ukoItfT+dSAbgn6l7zjpnB1sFFM2dr9y8J/e54dvfCT5qr
+R940LjzRmZCVF/JKYXDar236ZGxu6goOoasjy17v7H97dHhk8lZZTdydJzNP3O63
+XGk7f3lz7frf3pljGvSZ89kT4+bKU43xzzrSHbe6Z6Ju1J1L+/ij+vzQ9k1hiRF3
+fYv7q3YZx3cGXG9tW9kwt2+sMeDGq79oXVGZo+GWNas85rXLdzUsi1hZdSSwNKF1
+XlI6LPj9w7zzBw/vLn/6qaSXLkUaQzLq/lj0t/6R0jHjwch+vDNiIINZlfjjxnp2
+Xv5Afanl2JoPtm54d0h2/bTs0+GbxzRzXHMq1+ZY//JE7t6JsOvRRcxR6vH0+Y7J
+LzsH1vWNHjDq6uLRxamcwL7nhppGxj0155ZON4fpm/zChwxnJzsnL2UYl1+Klzb3
++sVkjt3a+Dl1ZsUPEVtOXit5sWj7Y+9d/gc=
+=z9lR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dcol97
+
+==================================================================
